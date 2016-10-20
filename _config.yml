@@ -4,49 +4,49 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Felfa"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Software libre, 8 bits, diseño gráfico y otras cavilaciones
 
-email: a-mail@mail.mail
+#email: nomail@nomail
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/felfalogo.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/header.gif"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Felfa'
+author: 'Felfalido'
+author_image: "/assets/images/da404d8ca0775d0e4d95.png"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://felfa.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+#twitter_handle: '@'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: felfa-github-io
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+    url:	https://quitter.es/felfa
+    desc: Quitter
+    share_url: http://quitter.es/felfa
+    share_title: 
+    share_link: 
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	facebook
+    url:	https://diasp.org/people/c28ab5d0787d01342e86782bcb452bd5
+    desc: Diaspora*
+    share_url: 
+    share_title: 
+    share_link: 
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    url:	https://github.com/felfa
+    desc:	GitHub
     share_url:
     share_title:
     share_link:
