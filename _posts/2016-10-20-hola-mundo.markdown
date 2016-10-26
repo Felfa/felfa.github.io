@@ -6,7 +6,6 @@ categories: pruebas
 tags: 
 image: /assets/article_images/generic/korea.gif
 ---
-
 Esto que ves es el **primer post** de mi página en GitHub.
 
 Tenía intención de montar aquí un mini blog donde publicar sobre software libre y de diversos temas que son de mi interés. Antes tenía medio montada mi página cutrecilla de GitHub desde cero (cuyo repositorio aún se encuentra [aquí](https://github.com/Felfa/felfa.github.io-old) por si acaso), pero la idea de intentar hacer una página **modelo de blog** desde cero a base de jugar con HTML y CSS sin posibilidad de usar PHP ni bases de datos en **GitHub Pages** (cosa que es lógica) ya me echaba un poquito hacia atrás.
