@@ -27,7 +27,7 @@ Ya empezaba a asumir que lo que estaba tocando no era Windows, ni tan siquiera M
 
 Tardé unos minutos en caer en la cuenta de que estaba utilizando GNU/Linux, aunque entonces lo llamaba "Linux" por desconocimiento y todavía hasta desconocía qué era una distribución (concepto que reconozco que me costaba mucho entender entonces).
 
-Total, que después de gastar tres cuartos de hora de tiempo en tocar, navegar y trastear el sistema para ver un poco cómo funciona —¡oh! ¡una consola de comandos! Ups, aquí no funciona ni un "dir" ni un "md" ni tan siquiera un "cd.."... qué raro, ¿no?— ya metí mi diskette de 3,5", abrí algo que me pareció al MS Office 2000 al que estaba acostumbrado a usar, que era OpenOffice 1.0, y me puse a terminar el trabajo que tenía pendiente de terminar —un momento, ¿qué ha pasado con las fuentes?
+Total, que después de gastar tres cuartos de hora de tiempo en tocar, navegar y trastear el sistema para ver un poco cómo funciona —¡oh! ¡una consola de comandos! Ups, aquí no funciona ni un "dir" ni un "md" ni tan siquiera un "cd.."... qué raro, ¿no?— ya metí mi diskette de 3,5", abrí algo que me pareció al MS Office 2000 al que estaba acostumbrado a usar, que era OpenOffice 1.0, y me puse a finalizar el trabajo que tenía pendiente de terminar —un momento, ¿qué ha pasado con las fuentes?
 
 * * *
 
