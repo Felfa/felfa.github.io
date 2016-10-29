@@ -60,3 +60,5 @@ Al principio me parecía un entorno algo hostil: tenía la sensación de que los
 Desde luego que no me arrepiento de haber pasado por infiernos de haberme cargado el sistema completamente por ejemplo, por haber agregado repositorios que no correspondían en mi sistema, de haberme tirado de los pelos por tratar de compilar desde cero sin éxito un programa tirando de manual, o de haberme cargado el arranque de forma que no podía cargar ninguno de los dos sistemas que tenía instalados en el ordenador.
 
 Con todo ello he ido aprendiendo, y con tiempo y paciencia acabé entendiendo cómo funcionaban las cosas en GNU/Linux y me di cuenta que hasta entonces con otros sistemas operativos a los que estaba acostumbrado, no podía tener la misma libertad que la que me brindaba GNU/Linux u otros sistemas operativos libres. Es una experiencia que sin duda recomendaría a cualquier usuario interesado que esté empezando a moverse por el mundillo de GNU/Linux y del software libre.
+
+_Las imágenes publicadas aquí no forman parte de la realidad relatada en esta entrada, sino que tan solo se tratan de meras recreaciones._
