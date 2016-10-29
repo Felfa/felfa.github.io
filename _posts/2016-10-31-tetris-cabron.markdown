@@ -4,7 +4,7 @@ title:  "El Tetris cabrón"
 date:   2016-10-31 10:10:06
 categories: juegos
 tags: bastet, tetris
-image: /assets/article_images/2016-10-28-tetris-cabron/bastet-header.png
+image: /assets/article_images/2016-10-31-tetris-cabron/bastet-header.png
 ---
 Muchos lo conocerán ya desde hace tiempo, pero me apetecía rememorar este juego libre de consola que a más de uno le traerá dolores de cabeza cuando lo pruebe.
 
