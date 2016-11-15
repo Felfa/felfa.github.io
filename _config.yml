@@ -3,7 +3,7 @@ gems:
   - jemoji
   - jekyll-paginate
   - redcarpet
-  - octopress-video-tag
+ # - octopress-video-tag
 
 
 # Site settings
