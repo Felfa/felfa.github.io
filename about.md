@@ -7,4 +7,4 @@ permalink: /about/
 
 {% video {{ site.cdn }}/test.webm %}
 
-En construcción (*pérate*, que estoy en ello).
+En construcción (*pérate*, que estoy en ello)

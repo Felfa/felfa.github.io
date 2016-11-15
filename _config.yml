@@ -5,6 +5,7 @@ gems:
   - redcarpet
   - octopress-video-tag
 
+
 # Site settings
 title: "Felfa"
 description: > # this means to ignore newlines until "email:"
