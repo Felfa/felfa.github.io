@@ -11,8 +11,7 @@ image: /assets/article_images/generic/under.gif
 Supongo que todo el mundo conocerá esa **espiral** granate que representa a una de las más conocidas y veteranas distribuciones de **GNU/Linux** que a día de hoy sigue dando guerra con centenares de subdistros que se han ido desarrollando a lo largo de los años; entre ellas está **Ubuntu** y su familia de distribuciones, por ejemplo.
 
 
-###¿Qué fue antes? ¿"Debian GNU/Linux" o la espiral?
-Como muchos sabréis, el padre de esta distribución **Ian Murdock** —que en paz descanse—, cuando anunció por primera vez la primera versión de esta distribución en el año 1993, nombró inicialmente a este proyecto como "the Debian Linux Release". Esa palabra "Debian" está formada por la combinación del nombre de pila de su novia de aquél entonces, llamada **Deb**ra Lynn, y por su propio nombre de pila **Ian** Murdock.
+**¿Qué fue antes? ¿"Debian GNU/Linux" o la espiral?** Como muchos sabréis, el padre de esta distribución **Ian Murdock** —que en paz descanse—, cuando anunció por primera vez la primera versión de esta distribución en el año 1993, nombró inicialmente a este proyecto como "the Debian Linux Release". Esa palabra "Debian" está formada por la combinación del nombre de pila de su novia de aquél entonces, llamada **Deb**ra Lynn, y por su propio nombre de pila **Ian** Murdock.
 
 Debian no disponía entonces de ningún tipo de emblema oficial, aunque por un período breve de tiempo sí que llegó a tener como logo provisional un pingüino rojo con los ojos azules, en clara alusión a la mascota del kernel Linux. Un logotipo muy poco conocido por el poco tiempo de vida que tuvo como logotipo semi-oficial.
 
