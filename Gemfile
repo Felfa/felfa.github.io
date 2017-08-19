@@ -4,3 +4,6 @@ source 'https://rubygems.org'
 gem 'github-pages'
 gem 'bourbon'
 gem 'jemoji'
+
+# Added at 2017-07-08 22:09:05 +0200 by alex:
+gem "redcarpet", "~> 3.4"
